@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/Alexecz/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
 - 🤖 ‍AI
 
 url-test
-- 延迟测试链接 http://www.gstatic.com/generate_204 -> https://i.ytimg.com/generate_204
+<!-- - 延迟测试链接 http://www.gstatic.com/generate_204 -> https://i.ytimg.com/generate_204 -->
 - 间隔时间 300秒 -> 15/30秒
 - 容差 50/150毫秒 -> 100/300毫秒
 
